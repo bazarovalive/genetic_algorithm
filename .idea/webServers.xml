@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ed5766ef-c4be-40ca-be69-a2948182a48b" name="pycharmProd" url="http://localhost">
+        <fileTransfer mountedRoot="$USER_HOME$/Documents/GitHub" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
